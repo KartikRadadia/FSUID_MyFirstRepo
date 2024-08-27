@@ -1,7 +1,7 @@
-##-[ ] Vegetable
+### -[ ] Vegetable
 
-##-[x] Bananas
+### -[x] Bananas
 
-##-[ ] Batteries
+### -[ ] Batteries
 
-##-[ ] Sponge
+### -[ ] Sponge
